@@ -103,9 +103,13 @@ class mobileScreen extends StatelessWidget {
 
 // login
 
+///git hup
 ///1- checkout master
 ///2- update master
 ///3- create branch
 ///4- code..
 ///5- commit
 ///6- checkout master again
+///7- update master
+///8- checkout your local branch
+///9- merge master with my current brunch
