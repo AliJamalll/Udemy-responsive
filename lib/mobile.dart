@@ -113,3 +113,5 @@ class mobileScreen extends StatelessWidget {
 ///7- update master
 ///8- checkout your local branch
 ///9- merge master with my current brunch
+///10 - push
+///11- create pull request
